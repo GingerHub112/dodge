@@ -20,7 +20,8 @@ bg = pygame.image.load("bg.png")
 bg = pygame.transform.scale(bg, (SCREEN_WIDTH, SCREEN_HEIGHT))
 player = pygame.image.load("player.png")
 player = pygame.transform.scale(player, (50, 50))
-brick = pygame.image.load("bricks.png")
+brick = pygame.image.load("bricks"
+".png")
 brick = pygame.transform.scale(brick, (50, 50))
 
 
